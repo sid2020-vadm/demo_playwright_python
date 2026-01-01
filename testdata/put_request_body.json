@@ -1,0 +1,11 @@
+{
+        "firstname": "Amit",
+        "lastname": "Ankoor",
+        "totalprice": 333,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-07-01",
+            "checkout": "2018-08-01"
+        },
+        "additionalneeds": "Breakfast"
+    }

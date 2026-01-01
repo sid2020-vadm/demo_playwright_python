@@ -1,0 +1,11 @@
+{
+        "firstname": "Agra",
+        "lastname": "Badami",
+        "totalprice": 111,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-06-01",
+            "checkout": "2018-08-01"
+        },
+        "additionalneeds": "Breakfast"
+    }

@@ -1,0 +1,4 @@
+total :  3
+page url: https://testautomationpractice.blogspot.com/
+page url: https://www.selenium.dev/
+page url: https://playwright.dev/

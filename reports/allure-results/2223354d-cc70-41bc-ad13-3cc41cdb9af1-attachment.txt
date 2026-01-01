@@ -1,0 +1,1 @@
+total : [<Page url='https://testautomationpractice.blogspot.com/'>, <Page url='https://www.selenium.dev/'>, <Page url='https://playwright.dev/'>]

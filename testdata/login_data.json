@@ -1,0 +1,12 @@
+[
+  {
+    "email": "ejordan@example.net",
+    "password": "535vEnm@@K",
+    "expected": "valid"
+  },
+  {
+    "email": "abcxyz@xyz.com",
+    "password": "abcxyx",
+    "expected": "invalid"
+  }
+]
